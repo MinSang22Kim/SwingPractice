@@ -1,0 +1,7 @@
+1 lee lll 0
+2 kim kkk 0
+3 park ppp 11
+4 cho ccc 5
+5 kang kkkk 21
+6 min mmm 0
+7 bae bbb 0
